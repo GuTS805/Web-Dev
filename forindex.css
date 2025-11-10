@@ -1,0 +1,55 @@
+*{
+    background-color:rgb(4, 6, 18);
+    font-family: 'Courier New',Courier, monospace;
+}
+div{
+    color:rgb(204, 255, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: px;
+}
+#one{
+    color:brown;
+}
+#two{
+    color:azure;
+}
+#three{
+    color:aquamarine;
+}
+#five
+{
+   background-color:rgb(69, 45, 116);
+}
+.group1{
+    color:rgb(127, 67, 67);
+
+}
+.group2{
+    color:aqua;
+}
+h1,h2,h3{
+    color:red;
+}
+#six{
+background-color:#f67004
+}
+#seven{
+background-color:#383BE5;
+}
+#eight{
+background-color:#2FEE6C;
+}
+.message{
+    color:blue;
+}
+#alert{
+    color:red;
+}
+a[target]{
+    background-color: blue;
+    border-left: 2px;
+}

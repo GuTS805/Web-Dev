@@ -1,0 +1,27 @@
+input[type=text]
+{
+    background-color:rgb(9, 10, 6);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+input[type=password]
+{
+    background-color:rgb(9, 10, 6);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+input[type=radio]
+{
+    background-color:rgb(39, 22, 89);
+    color:white;
+    font-size: 20px;
+}
+input[type=checkbox]
+{
+    background-color:rgb(9, 10, 6);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
