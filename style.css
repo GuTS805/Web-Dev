@@ -1,0 +1,23 @@
+div, #group1{
+    color:rgb(168, 62, 62);
+}
+div, #group2{
+    color:rgb(24, 108, 98);
+}
+div, #group3{
+    color:rgb(126, 197, 26);
+}
+h1{
+    font-weight: lighter;
+}
+p{
+    color: black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+ #box{
+    border: 2px solid rgb(10, 10, 33);
+    margin: 2px;
+}
