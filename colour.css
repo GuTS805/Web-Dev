@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav
+{
+    
+    background-color: rgb(6, 5, 7);
+    color:beige;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-links
+{
+    display: flex;
+
+    
+}
+ul li a
+{
+    color: beige;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s ;
+    
+}
+ul li{
+    margin: 20px;
+    list-style:none;
+}
+ul li a:hover
+    {
+        color: orange;
+    }
+    body
+    {
+        /*background-image: url("ABES\ EC.jpeg");
+        background-repeat: no-repeat;*/
+        background: linear-gradient(yellow,green);
+        background-repeat: repeat-y;
+    }
