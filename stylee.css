@@ -1,0 +1,30 @@
+#left
+{
+    color: black;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 25px;
+    gap: 10px;
+    border-color: rgb(37, 29, 44);
+    background-color: beige;
+    text-align: justify;
+}
+#right
+{
+    color: black;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 25px;
+    gap: 10px;
+    border-color: rgb(30, 21, 38);
+    background-color: antiquewhite;
+    text-align: justify;
+}
+div
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
